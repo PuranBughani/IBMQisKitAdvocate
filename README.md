@@ -1,5 +1,4 @@
 Qiskit My Working File
 
-Welcome to the Qiskit IQX Tutorials!
 
-Created this repository, tp keep my exercise notebook. 
+Created this repository, to keep my exercise notebook for Quantum work 
